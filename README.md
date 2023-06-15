@@ -1,7 +1,7 @@
 # Nagwa-Task-With-React-Express
 
 # 1- You will need to clone the repo or download it (as you wish)
-- use this command to clone it : git clone https://github.com/Metwally-Sayed/nagwa-task.git
+- use this command to clone it: "git clone https://github.com/Metwally-Sayed/nagwa-task.git"
 - also you can download it as zip file  
 
 # 2- You will need to install dependencies for client file (front-end) and server (back-end)
